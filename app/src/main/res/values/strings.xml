@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GITHUB_DMOS5</string>
+    <string name="edit_username_hint">Username</string>
+    <string name="button_search_text">Search</string>
+    <string name="button_positive_permission_text">Fornecer</string>
+    <string name="button_negative_permission_text">Agora não</string>
+    <string name="explain_internet_permission">É necessário o acesso a internet para que a busca dos repositórios aconteça, sem essa permissão essa funcionalidade não acontecerá.</string>
+    <string name="search_repos_invalid_input">Por favor digite um Username para realizar a pesquisa</string>
+    <string name="error_api">Erro ao consumir a api</string>
+</resources>
