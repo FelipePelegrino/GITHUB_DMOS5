@@ -1,7 +1,7 @@
 # GITHUB_DMOS5 - Busca perfil Github
 
 Uma aplicação simples com o intuito de estudar permissões e Retrofit com conversor Gson.
-Desenvolvido na disciplina Desenvolvimento para Dispositivos Móveis (DMOS5) do curso Análise e Desenvolvimento de Sistema na faculdade IFSP - Araraquara ministrada pelo professor Ednilson Rossi
+Desenvolvido na disciplina Desenvolvimento para Dispositivos Móveis (DMOS5) do curso Análise e Desenvolvimento de Sistema na faculdade IFSP - Araraquara lecionado pelo professor Ednilson Rossi
 
 <img src="/records/appgif.gif" width="800">
 
